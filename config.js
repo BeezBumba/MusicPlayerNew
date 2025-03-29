@@ -4,13 +4,13 @@ export const defaultCoverArt = 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.o
 // Player options that can be customized
 export const playerOptions = {
     // Time to wait before advancing to the next song (in milliseconds)
-    autoplayDelay: 500,
+    autoplayDelay: 0,
     
     // Animation speed for progress bar (in milliseconds)
     progressAnimationSpeed: 100,
     
     // Default volume (0-1)
-    defaultVolume: 0.7,
+    defaultVolume: 1,
     
     // Crossfade duration between songs (in milliseconds)
     crossfadeDuration: 1000
