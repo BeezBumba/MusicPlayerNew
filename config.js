@@ -1,5 +1,5 @@
 // Default cover art (inline svg for when no cover is available)
-export const defaultCoverArt = 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200"%3E%3Crect width="200" height="200" fill="%23333"%2F%3E%3Ccircle cx="100" cy="100" r="50" fill="%23555"%2F%3E%3Cpath d="M80 80 L80 120 L130 100 Z" fill="%23777"%2F%3E%3C%2Fsvg%3E';
+export const defaultCoverArt = "default.png";
 
 // Player options that can be customized
 export const playerOptions = {
